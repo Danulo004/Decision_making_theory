@@ -1,0 +1,6 @@
+Odesa;Uman;Uzhhorod;Kyiv;Dnipro
+Reviews:0.1;10;9;8;7;6
+Cost of travel:0.2;7;8;10;9;6
+Cost of housing:0.2;6;10;9;9;8
+Landmarks:0.3;10;9;6;7;8
+Travel time:0.2;6;8;10;9;7
