@@ -1,3 +1,3 @@
 # Decision making theory
-## By danylo
-### Repo for LPNU
+## By Danylo Rubakha KN-405
+#### Repo for LPNU
